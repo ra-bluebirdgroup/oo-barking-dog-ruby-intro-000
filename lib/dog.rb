@@ -6,7 +6,9 @@ class Dog
 
 def name
   @name
-  @bark
  end
+
+def bark
+  @bark 
 
 end
